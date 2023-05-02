@@ -13,7 +13,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #efecff;
+  background: #ebb47a;
   background-size: 15px 15px;
   font-family: "Euclid Circular A", "Poppins";
 }
@@ -52,7 +52,7 @@ body {
 }
 .card button {
   border: 0;
-  background: linear-gradient(90deg, #5448de, #5448de);
+  background: linear-gradient(90deg, #e48c2e, #ea6316);
   color: #f8f8f8;
   font-family: inherit;
   padding: 16px 26px;
